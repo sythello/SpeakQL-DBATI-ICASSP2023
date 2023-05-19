@@ -31,7 +31,7 @@ Getting phonemes (+ timestamps):
 - Predicting: 'SpeakQL/Allennlp_models/bash_scripts/predict-XXX.sh' + version
 - Evaluating: 'SpeakQL/Allennlp_models/bash_scripts/eval-XXX.sh' + version'
 	- Need our forked rat-sql: https://github.com/sythello/rat-sql
-	- Our trained rat-sql checkpoints: (TODO)
+	- Our trained rat-sql checkpoints: [Google drive link](https://drive.google.com/file/d/12r-rP7Om_AeK3G4MwaXj-VBUrwKG0KWh/view?usp=share_link)
 
 For example (full DBATI):
 `cd SpeakQL/Allennlp_models`
