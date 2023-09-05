@@ -5,7 +5,7 @@ For any questions, please feel free to reach out to yshao@ucsd.edu !
 
 ## Spoken Spider Dataset
 
-Link: [here](https://drive.google.com/file/d/1JcYjYygUM4rqIEhdjhKYkmDXxPSg_bP1/view?usp=drive_link)
+Link: [Google drive link](https://drive.google.com/file/d/1JcYjYygUM4rqIEhdjhKYkmDXxPSg_bP1/view?usp=drive_link)
 
 For what follows, we assume that the spider dataset is located under directory `Dataset`.
 
