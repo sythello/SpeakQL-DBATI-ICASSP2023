@@ -35,9 +35,13 @@ Getting phonemes (+ timestamps):
 
 For example (full DBATI):
 `cd SpeakQL/Allennlp_models`
+
 `bash bash_scripts/train-rewriter.sh tagger.0t`
+
 `bash bash_scripts/train-rewriter.sh ILM.0i`
+
 `bash bash_scripts/predict-ILM-on-tagger-rewriter.sh tagger.0t ILM.0i`
+
 `bash bash_scripts/eval-joint.sh tagger.0t-ILM.0i`
 
 You can also refer to `run_exp.sh` for an example to run a batch of experiments.
