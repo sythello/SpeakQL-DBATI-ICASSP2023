@@ -1,11 +1,11 @@
 # SpeakQL-DBATI-ICASSP2023
 
-For any questions, please feel free to reach out to yshao@eng.ucsd.edu !
+For any questions, please feel free to reach out to yshao@ucsd.edu !
 
 
 ## Spoken Spider Dataset
 
-Link: https://drive.google.com/drive/folders/1D7X5sp4YDdzTSrowW_oxLIw4biOnx3mM?usp=sharing
+Link: [here](https://drive.google.com/file/d/1JcYjYygUM4rqIEhdjhKYkmDXxPSg_bP1/view?usp=drive_link)
 
 For what follows, we assume that the spider dataset is located under directory `Dataset`.
 
